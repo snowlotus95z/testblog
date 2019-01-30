@@ -1,3 +1,17 @@
+---
+layout:     post
+title:      周记
+subtitle:   小周记
+date:       2019-1-30
+author:     药药
+header-img: img/home-bg-art.jpg
+catalog: true
+tags:
+    - 周记
+    - 测试2
+---
+
+
 ### 生活
 + 早睡练习
 这周开始早睡，最明显的一个好处是周末不再睡懒觉，自己整点好吃的，规律作息。
